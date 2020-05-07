@@ -1,0 +1,13 @@
+.avatar{
+  width:64px;
+  height:64px;
+  background:url(../images/default_avatar.png);
+  background-size:100% 100%;
+}
+.im-box{
+  background:url(../images/imBg.jpg);
+  background-size:100% 100%;
+}
+.layui-layer-dialog{
+  z-index:62001030!important;
+}
